@@ -1,0 +1,4 @@
+[submodule "agent-inbox"]
+	path = agent-inbox
+	url = https://github.com/pamelafox/agent-inbox.git
+	branch = ui-improve
